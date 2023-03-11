@@ -1,7 +1,7 @@
 ## Running locally
 
 ```bash
-git clone https://github.com/LewinsHp/LESSON-FRONTEND/latihan-html-css.git
+git clone https://github.com/LewinsHp/LESSON-FRONTEND/proyekakhir-html-css.git
 cd latihan-html-css
 localhost/latihan-html-css
 ```

@@ -15,9 +15,11 @@ Tools i'm using to build this project
 
 
 <p align="center">
-  <img src="assets/images/Ninja Ken.png" alt='yes' width="50%">
+  <img src="assets/Hang out with us.jpg " alt='yes' width="100%">
 </p>
-
+<p align="center">
+  <img src="assets/Coffe Header.png " alt='yes' width="100%">
+</p>
 
 ## Credits
 
